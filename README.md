@@ -38,5 +38,7 @@ number of chocolates
 d. Invoice date shows the date of transaction when it happens. 
 
 e. Price contains price of product per unit. 
-f. CustomerID : it is unique id for each customer. 
+
+f. CustomerID : it is unique id for each customer.
+
 g. Country : it shows the country of the Customer.
