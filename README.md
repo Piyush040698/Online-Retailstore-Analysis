@@ -1,4 +1,4 @@
-# Online Retailstore Analysis
+# Online Retail store Analysis
 Problem Statement 
 
 An online retail store want analyze the customer purchasing 
